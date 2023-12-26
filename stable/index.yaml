@@ -3,11 +3,11 @@ entries:
   test-chart:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2023-12-26T21:18:28.7529325+09:00"
+    created: "2023-12-26T22:17:10.5535222+09:00"
     description: A Helm chart for Kubernetes
-    digest: dd8aa472cac532eddaa905543c78c104ca2debad78999c7f39e2edb722a68c65
+    digest: 21aa3c4aa4e7e882c2945cb677b8690a5bcf39576b7bb8843ede9621541a99b7
     name: test-chart
     urls:
     - test-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-26T21:18:28.7462929+09:00"
+generated: "2023-12-26T22:17:10.5447795+09:00"
